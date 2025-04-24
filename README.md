@@ -1,16 +1,6 @@
-# f_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Localization
+-https://www.geeksforgeeks.org/application-localization-in-flutter/  ใช้ลิ้งนี้เป็นหลัก
+ถ้า setup file ใน lib/i10n แล้วให้รัน flutter gen-l10n
+-import 'package:flutter_gen/gen_l10n/app_localizations.dart'; //ถ้า import error ให้รัน flutter gen-l10n
+-ถามีการแก้ไขไฟล์ในโฟลเดอร์ i10n ให้รัน flutter gen-l10n
+ตัวอย่างอยู่ใน project “f_project”
