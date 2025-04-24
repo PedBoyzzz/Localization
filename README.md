@@ -1,5 +1,5 @@
 
-*** หลังจาก clone ให้รัน "flutter gen-l10n" ก่อนจึงจะสมารถรันได้<br/>
+*** หลังจาก clone ให้รัน "flutter gen-l10n" ก่อนจึงจะสามารถรันได้<br/>
 
 วิธีการทำ Localization<br/>
 -https://www.geeksforgeeks.org/application-localization-in-flutter/  ใช้ลิ้งนี้เป็นหลัก <br/>
